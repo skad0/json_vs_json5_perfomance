@@ -1,0 +1,17 @@
+{
+  "name": "jsonvsjson5",
+  "version": "0.0.1",
+  "description": "json vs json5 perfomance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anton Krichevskiy (@skad0)",
+  "license": "ISC",
+  "dependencies": {
+    "benchmark": "^2.1.3",
+    "json5": "^0.5.1",
+    "microtime": "^2.1.2",
+    "node-eval": "^1.1.0"
+  }
+}
